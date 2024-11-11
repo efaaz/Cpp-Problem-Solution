@@ -16,6 +16,3 @@ Write a program that takes a single character as input to determine the gender. 
 - The program should print **"Male"** if the input is 'M' or 'm'.
 - The program should print **"Female"** if the input is 'F' or 'f'.
 
-### Example
-
-**Input:**
