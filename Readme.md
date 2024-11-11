@@ -1,4 +1,4 @@
-# C++ Problem Solutions by Topic
+# C++ Problem & Solutions
 
 Welcome to this repository! Here you'll find a collection of C++ problems and their solutions, organized by topic to help you learn and practice key programming concepts. Each topic folder contains multiple problems, along with their solutions, to help you build your C++ skills.
 
