@@ -19,7 +19,3 @@ Write a program that takes a single letter as input from the keyboard and determ
 #### Example 2:
 - **Input**: `B`
 - **Output**: `B is a consonant`
-
-## Solution Code
-
-The solution code for this problem can be found in the [Problem1.cpp](./Problem1.cpp) file.
